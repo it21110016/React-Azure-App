@@ -1,0 +1,81 @@
+.container {
+    padding-top: 20px;
+    padding-bottom: 80px;
+    background-color: slategray;
+}
+
+h1 {
+    background-color: darkkhaki;
+}
+
+nav {
+    background-color: darkkhaki;
+    text-align: center;
+    font-size: 50px;
+    color: brown;
+}
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+    margin-left: 15%;
+    background-color: #008cba;
+}
+
+th {
+    background-color: burlywood;
+    padding: 8px;
+    text-align: left;
+}
+
+td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Action button styles */
+.editButton {
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 4px;
+    padding: 4px 8px;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+.deleteButton {
+    background-color: red;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 4px;
+    padding: 4px 8px;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+.form {
+    margin-left: 25%;
+    margin-top: 40px;
+    background-color: #4caf50;
+    width: 50%;
+    height: 280px;
+    text-align: center;
+}
+
+/* Input styles */
+input {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+/* Save button styles */
+.saveButton {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
